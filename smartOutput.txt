@@ -1,0 +1,3 @@
+10 SmartData1
+20 SmartData2
+40 SmartData3
