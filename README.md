@@ -3,7 +3,6 @@
 #**Smart data summarization and contextualization**
 
 ##**Abstract or Problem Description**
-===================================
 
 > With advent of big data we have huge amount of information which lies
 > unprocessed and unsearchable which is increasingly becoming difficult
@@ -20,7 +19,6 @@
 > context and contents of the Big Data source.
 
 ##**Introduction: Explain the abstract in detail including what has been achieved**
-=================================================================================
 
 > Over the last three months we have designed, implemented and tested
 > project for converting any data to smart data. For Smart data
@@ -43,7 +41,6 @@
 > with synonyms and context output.
 
 ##**Methods used and Technical documentation (see below)**
-=========================================================
 
 > Architecture Diagram
 >
@@ -194,7 +191,6 @@ A data scientist is needed to understand the context and categorize it.
 
 
 ##**Results**
-===========
 
 > We have successfully ran the project on various files which are
 > distinctly different in subjects and concluded the efficacy of the
@@ -208,7 +204,6 @@ A data scientist is needed to understand the context and categorize it.
 > sentiment and other snapshot view of discussion in high level view.
 
 ##**Conclusions**
-================
 
 > We have described Smart Data Summarization and contextualization, an
 > approach to make any data source into Smart data which can be
